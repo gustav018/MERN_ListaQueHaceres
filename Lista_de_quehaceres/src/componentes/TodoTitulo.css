@@ -1,0 +1,22 @@
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+.card-title {
+  flex: 2;
+}
+div.card {
+  border-style: none;
+}
+div.container {
+  width: 50%;
+}
+input#checkboxNoLabel {
+  margin: 11px;
+}
